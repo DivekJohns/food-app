@@ -1,12 +1,26 @@
+## restore data from json from main directory
+```
+restaurants-backup-json.json
+user-backup-json.json
+```
+
+## login
+
+```
 username: divek@gmail.com
-password: 12345
+password: 123
+```
 
-you can also create new user from registration postman call by
+## create new user from registration  endpoint
 
+```
 localhost:3000/services/register
-body
-  {"password": "123",
+```
+with body
+``` 
+ {
+   "password": "123",
   "email": "divek@sgmail.com",
   "firstName": "Divek" ,
   "lastName": "john"
-}
+}```
