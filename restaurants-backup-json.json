@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "60605ec803668548b04f4c81"
+  },
+  "name": "Biriyani Palace",
+  "cuisines": [
+    "Mughlai",
+    "Biriyani",
+    "Tandoor"
+  ],
+  "address": "#34 HSR Layout, 7th Main, Bangalore",
+  "locality": "HSR Layout",
+  "cost": 700,
+  "establishment": [
+    "Dine in"
+  ],
+  "rating": "3.5",
+  "img": "biryani.jpg"
+},{
+  "_id": {
+    "$oid": "60646a94045febbbdbb1b8ea"
+  },
+  "name": "Sanmukha",
+  "cuisines": [
+    "Mughlai",
+    "Biriyani",
+    "Tandoor",
+    "Chinese"
+  ],
+  "address": "#34B HSR Layout, 6th Main, Bangalore",
+  "locality": "HSR Layout",
+  "cost": 400,
+  "establishment": [
+    "Dine in",
+    "Delivery"
+  ],
+  "rating": "4.0",
+  "img": "veg.jpg"
+},{
+  "_id": {
+    "$oid": "60646ae7045febbbdbb1b8eb"
+  },
+  "name": "Pizza Hut",
+  "cuisines": [
+    "Italian",
+    "Pasta",
+    "Pizza"
+  ],
+  "address": "#3 HSR Layout, 7th Main, Bangalore",
+  "locality": "HSR Layout",
+  "cost": 600,
+  "establishment": [
+    "Dine in",
+    "Delivery"
+  ],
+  "rating": "4.5",
+  "img": "pizza.jpg"
+},{
+  "_id": {
+    "$oid": "60646b46045febbbdbb1b8ec"
+  },
+  "name": "Pizza Hut",
+  "cuisines": [
+    "Italian",
+    "Pasta",
+    "Pizza"
+  ],
+  "address": "#3 Koramangla, 7th Main, Near Forum Mall, Bangalore",
+  "locality": "Koramangla",
+  "cost": 600,
+  "establishment": [
+    "Dine in",
+    "Delivery"
+  ],
+  "rating": "4.5",
+  "img": "pizza2.jpg"
+}]
